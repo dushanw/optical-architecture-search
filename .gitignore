@@ -7,3 +7,7 @@ __pycache__/
 .DS_Store
 data/
 .streamlit/
+
+# Local reference materials (not in repo)
+_writeups/
+_ref/
